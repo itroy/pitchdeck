@@ -1,0 +1,17 @@
+{
+  "name": "pitchdeck",
+  "version": "0.0.1",
+  "description": "React Pitch Deck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "CV",
+    "Folio",
+    "JS"
+  ],
+  "author": "T A Ginbey",
+  "license": "MIT"
+}
